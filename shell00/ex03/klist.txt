@@ -1,0 +1,2 @@
+Credentials cache: API:1CFD6EC6-0D76-428E-80CC-6EE47B10472C
+        Principal: piscineux@42LISBOA.COM
